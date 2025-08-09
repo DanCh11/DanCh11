@@ -1,7 +1,8 @@
 ## Greetings! My name is Dan 👋
-💻 I believe in smooth workflows, clarity, precision, and purpose in everything I build.
+
+<h4 align="center"><samp> 💻 I believe in smooth workflows, clarity, precision, and purpose in everything I build.
 For me, clean development isn’t just about writing code — it’s about crafting ideas into solutions with 
-professionalism, care, and a commitment to lasting quality.
+professionalism, care, and a commitment to lasting quality. </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.tenor.com/V3NkwxBInNsAAAAi/fred-fred-mopping.gif">
