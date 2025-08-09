@@ -5,9 +5,11 @@ For me, clean development isn’t just about writing code — it’s about craft
 professionalism, care, and a commitment to lasting quality. </samp></h4>
 
 <p align="left">
-  <img width="250" src="https://media.tenor.com/V3NkwxBInNsAAAAi/fred-fred-mopping.gif" alt="mopping gif" style="vertical-align: middle; margin-right: 20px;"/>
+  <img width="250" src="https://media.tenor.com/V3NkwxBInNsAAAAi/fred-fred-mopping.gif" 
+       alt="mopping gif" 
+       style="vertical-align: middle; margin-right: 20px;"/>
   
-  <span>
+  <span style="vertical-align: top; position: relative; top: -10px;">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a>
