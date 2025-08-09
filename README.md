@@ -4,7 +4,7 @@ For me, clean development isn’t just about writing code — it’s about craft
 professionalism, care, and a commitment to lasting quality.
 
 <p align="center">
-  <img width="250" src="https://media.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+  <img width="250" src="https://media.tenor.com/V3NkwxBInNsAAAAi/fred-fred-mopping.gif">
 </p>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <h3 align="left">Languages and Tools:</h3>
