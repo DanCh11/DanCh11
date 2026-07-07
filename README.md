@@ -15,9 +15,3 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=DanCh11&theme=onedark&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DanCh11&theme=radical&no-frame=true&no-bg=false&margin-w=4)
